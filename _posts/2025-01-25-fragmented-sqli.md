@@ -4,6 +4,7 @@ date: 2025-01-25 20-00-00
 categories: SQLi
 tags: sql, injection
 description: Bypass filters designed to block string-based SQL injection.
+author: <author_1>
 ---
 
 
